@@ -1,0 +1,20 @@
+{
+  "name": "foolish-man",
+  "version": "1.0.0",
+  "description": "文件创建工具",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "qiushangzhe",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "figlet": "^1.2.4",
+    "inquirer": "^7.0.0",
+    "shelljs": "^0.8.3"
+  },
+  "bin": {
+    "foolish": "./index.js"
+  }
+}
