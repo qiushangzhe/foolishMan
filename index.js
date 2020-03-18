@@ -7,10 +7,12 @@ const creater = require('./lib/creater');
 const errorHander = require('./lib/error');
 
 const run = async () => {
+  
   // 显示脚本介绍
   showDesc();
   // 询问问题
   const creatOption = await askQuestion();
+  console.log(creatOption)
   // 创建文件
   const result = creater(creatOption);
   // 显示成功消息提示

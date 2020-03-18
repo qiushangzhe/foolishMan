@@ -1,4 +1,4 @@
 
-<template src="./{{name}}.html"></template>
+<template src="./{{name}}.{{templateType}}"></template>
 <script src="./{{name}}.js"></script>
-<style src="./{{name}}.less" lang="less"></style>
+<style src="./{{name}}.{{styleType}}" lang="{{styleType}}"></style>
