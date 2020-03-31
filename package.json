@@ -1,6 +1,6 @@
 {
   "name": "@qiusz/foolish-man",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "文件创建工具",
   "main": "index.js",
   "scripts": {
@@ -14,6 +14,7 @@
   "license": "ISC",
   "dependencies": {
     "chalk": "^3.0.0",
+    "download-git-repo": "^3.0.2",
     "figlet": "^1.2.4 ",
     "inquirer": "^7.0.0",
     "shelljs": "^0.8.3"

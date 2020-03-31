@@ -12,7 +12,6 @@ const run = async () => {
   showDesc();
   // 询问问题
   const creatOption = await askQuestion();
-  console.log(creatOption)
   // 创建文件
   const result = creater(creatOption);
   // 显示成功消息提示

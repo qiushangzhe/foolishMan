@@ -16,3 +16,12 @@
 
 以上是方便我个人开发使用的策略，暂时写死了。
 如果想用其他的策略，你可以自己改代码或者自己微调脚本生成出的文件。
+
+
+## 安装方式
+
+npm install https://github.com/qiushangzhe/foolishMan.git -g
+
+## 使用方式
+
+安装后 控制台执行foolish 根据导航选择使用不同的功能
