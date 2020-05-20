@@ -1,6 +1,6 @@
 {
   "name": "@qiusz/foolish-man",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "文件创建工具",
   "main": "index.js",
   "scripts": {
